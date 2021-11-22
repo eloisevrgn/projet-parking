@@ -79,6 +79,8 @@ function generateDisplay(){
         });
 
 
+        
+
         // bouton modifier
         let modif = document.createElement("button");
         modif.type="button";
